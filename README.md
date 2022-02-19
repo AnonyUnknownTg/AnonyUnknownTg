@@ -4,4 +4,6 @@
 - 💞️ I’m looking to collaborate on myself.
 - 📫 How to reach me: https://t.me/Anony_Unknown
 
+###### ⚠️ Below support link is for representation purpose only!
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D479C2U)

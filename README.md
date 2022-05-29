@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AnonyUnknownTg
+- 👋 Hi, I’m @TheAnonyUnknown
 - 👀 I’m interested in every exciting thing, from Science & Technology to Graphic Designing!
 - 🌱 I’m currently learning everything I can and I'm interested in!
 - 💞️ I’m looking to collaborate on myself.

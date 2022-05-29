@@ -18,16 +18,10 @@
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TheAnonyUnknown&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
-
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=TheAnonyUnknown&icon=5&color=0)](https://visitcount.itsvg.in)
 
-
+---
 ###### ⚠️ Below support link is for representation purpose only!
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D479C2U)

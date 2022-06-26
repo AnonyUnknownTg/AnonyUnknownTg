@@ -1,12 +1,13 @@
 # 😺 About Me
-<img align="left" width="250" src="/music.svg">
+<img align="right" width="325" src="/music.svg">
 
  **👋 Hi, I’m Anony!**
-- 🙀 I’m interested in every exciting thing, from Science & Technology to Graphic Designing!
 
-- 👨‍🎓 I’m currently learning everything I can and I'm interested in!
+🙀 I’m interested in every exciting thing, from Science & Technology to Graphic Designing!
 
-> 💌 Contact me **[here](https://t.me/Anony_Unknown)**.
+👨‍🎓 I’m currently learning everything I can and I'm interested in!
+
+> 💌 Contact me [here](https://t.me/Anony_Unknown).
 
 <details><summary>🐱 Reveal my progress!</summary>
 <p>

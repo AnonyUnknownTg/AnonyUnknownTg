@@ -1,5 +1,5 @@
 # 😺 About Me
-<img align="right" width="400" src="/music.svg">
+<img align="right" width="400" src="/music.svg"><br/>
 
 > **👋 Hi, I’m Anony!**
 

@@ -1,4 +1,6 @@
 # 😺 About Me
+<img align="right" width="400" src="/music.svg">
+
 > **👋 Hi, I’m Anony!**
 
 > 🙀 I’m interested in every exciting thing, from Science & Technology to Graphic Designing!

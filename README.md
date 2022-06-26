@@ -7,7 +7,11 @@
 
 👨‍🎓 I’m currently learning everything I can and I'm interested in!
 
-> 💌 Contact me [here](https://t.me/Anony_Unknown).
+>💌 **Contact me [here](https://t.me/Anony_Unknown).**
+
+>⏳ **See my recent activity [here](https://gitstalk.netlify.app/TheAnonyUnknown).**
+
+>🎥 **See my activity in VR [here](https://skyline.github.com/TheAnonyUnknown/2022).**
 
 <details><summary>🐱 Reveal my progress!</summary>
 <p>
@@ -17,8 +21,8 @@
 ```
 
 
-- [x] Web Designing :tada:
-- [x] Graphic Designing :tada:
+- [x] Web Designing 🎉
+- [x] Graphic Designing 🎉
 - [ ] Flutter Development 
 </p>
 </details>

@@ -7,11 +7,11 @@
 
 👨‍🎓 I’m currently learning everything I can and I'm interested in!
 
->💌 **Contact me [here](https://t.me/Anony_Unknown).**
+>💌 **Contact me [here](https://t.me/VedxP).**
 
->⏳ **See my recent activity [here](https://gitstalk.netlify.app/TheAnonyUnknown).**
+>⏳ **See my recent activity [here](https://gitstalk.netlify.app/VedxP).**
 
->🎥 **See my activity in VR [here](https://skyline.github.com/TheAnonyUnknown/2022).**
+>🎥 **See my activity in VR [here](https://skyline.github.com/VedxP/2022).**
 
 <details><summary>🐱 Reveal my progress!</summary>
 <p>

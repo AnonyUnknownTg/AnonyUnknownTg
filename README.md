@@ -1,7 +1,7 @@
 # 😺 About Me
 <img align="right" width="325" src="/music.svg">
 
- **👋 Hi, I’m Anony!**
+ **👋 Hi, I’m Ved!**
 
 🙀 I’m interested in every exciting thing, from Science & Technology to Graphic Designing!
 
@@ -37,3 +37,6 @@
 </details>
 
 [![](https://visitcount.itsvg.in/api?id=TheAnonyUnknown&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.com)
+<div align="right">
+  <b><a href="https://github.com/VedxP/VedxP#readme"><sup>↥ Move to top!</sup></a></b>
+</div>

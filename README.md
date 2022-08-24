@@ -36,7 +36,6 @@
 </picture>
 </details>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VedxP&theme=vue&hide_border=true)](https://git.io/streak-stats)
+
 [![](https://visitcount.itsvg.in/api?id=TheAnonyUnknown&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.com)
-<div align="right">
-  <b><a href="https://github.com/VedxP/VedxP#-about-me"><sup>↥ Move to top!</sup></a></b>
-</div>

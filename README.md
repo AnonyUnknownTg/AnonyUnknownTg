@@ -7,34 +7,11 @@
 
 👨‍🎓 I’m currently learning everything I can and I'm interested in!
 
->💌 **Contact me [here](https://t.me/VedxP).**
+>💌 **[Contact me](https://t.me/VedxP)**
 
->⏳ **See my recent activity [here](https://gitstalk.netlify.app/VedxP).**
+>⏳ **[See my recent activity](https://gitstalk.netlify.app/VedxP)**
 
->🎥 **See my activity in VR [here](https://skyline.github.com/VedxP/2022).**
-
-<details><summary>🐱 Reveal my progress!</summary>
-<p>
-
-```ruby
-😸 More will be added with time!
-```
-
-
-- [x] Web Designing 🎉
-- [x] Graphic Designing 🎉
-- [ ] Flutter Development 
-</p>
-</details>
-
-<details><summary>Check 🐈 or 🐈‍⬛ !</summary>
-<br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img width="150" height="auto" alt="Check 🐈 or 🐈‍⬛" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
-</details>
+>🎥 **[See my activity in VR](https://skyline.github.com/VedxP/2022)**
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VedxP&theme=gruvbox_duo&hide_border=true)](https://git.io/streak-stats)
 

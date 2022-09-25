@@ -1,7 +1,5 @@
 ## Hey there!
-<img align="right" width="325" src="/vpbanner.png">
-
----
+<img src="/vpbanner.png">
 
 - 🙀 I’m interested in every exciting thing, from Science & Technology to Graphic Designing!
 

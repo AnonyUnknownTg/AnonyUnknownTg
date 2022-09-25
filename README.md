@@ -1,4 +1,4 @@
-### Hey there 👋
+### 👋 Hey there!
 <img src="/vpbanner.png">
 
 - 🙀 I’m interested in every exciting thing, from Science & Technology to Graphic Designing!

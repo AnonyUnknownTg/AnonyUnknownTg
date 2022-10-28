@@ -1,5 +1,10 @@
 ### 👋 Hey there!
-<img src="/vpbanner.png">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/vpbanner.png">">
+  <source media="(prefers-color-scheme: light)" srcset="/vpbanner.png">">
+  <img alt="Banner Saying; It's me, Ved!" src="/vpbanner.png">
+</picture>
 
 > 🙀 I’m interested in every exciting thing, from Science & Technology to Graphic Designing!
 
@@ -8,5 +13,3 @@
 >🤙 Talk to me on [Telegram ➜](https://t.me/VedxP)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VedxP&theme=blueberry_duo&hide_border=true)](https://git.io/streak-stats)
-
-[![](https://visitcount.itsvg.in/api?id=TheAnonyUnknown&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.com)

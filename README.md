@@ -12,4 +12,8 @@
 
 >🤙 Talk to me on [Telegram ➜](https://t.me/VedxP)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VedxP&theme=blueberry_duo&hide_border=true)](https://git.io/streak-stats)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="http://github-readme-streak-stats.herokuapp.com?user=VedxP&theme=blueberry_duo&hide_border=true">">
+  <source media="(prefers-color-scheme: light)" srcset="http://github-readme-streak-stats.herokuapp.com?user=VedxP&theme=blueberry_duo&hide_border=true">">
+  <img alt="Banner Displaying VedxP's GitHub Streak Stats" src="http://github-readme-streak-stats.herokuapp.com?user=VedxP&theme=blueberry_duo&hide_border=true">
+</picture>

@@ -10,7 +10,7 @@
 
 > 👨‍🎓 I’m currently learning everything I can and I'm interested in!
 
->🤙 Talk to me on [Telegram ➜](https://t.me/VedxP)
+> 🤙 Talk to me on [Telegram ➜](https://t.me/VedxP)
 
 <table><td>
 <picture>

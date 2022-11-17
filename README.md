@@ -19,7 +19,8 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=VedxP&count_private=true&show_icons=true&theme=transparent&border_radius=10&hide_title=true">">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=VedxP&count_private=true&show_icons=true&theme=transparent&border_radius=10&hide_title=true">">
-  <img alt="Banner Displaying VedxP's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=VedxP&count_private=true&show_icons=true&theme=transparent&border_radius=10&hide_title=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=VedxP&count_private=true&show_icons=true&theme=github_dark&bg_color=00000000&border_radius=10&hide_title=true">">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=VedxP&count_private=true&show_icons=true&theme=github_dark&bg_color=00000000&border_radius=10&hide_title=true">">
+  <img alt="Banner Displaying VedxP's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=VedxP&count_private=true&show_icons=true&theme=github_dark&bg_color=00000000&border_radius=10&hide_title=true">
 </picture>
+

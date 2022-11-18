@@ -8,12 +8,14 @@
 
 <p align="center"><kbd></kbd></p>
 
-<table><td>
-🙀 I’m interested in every exciting thing, from Science & Technology to Graphic Designing!<br>
-👨‍🎓 I’m currently learning everything I can and I'm interested in!
-</td></table>
+<kbd>
+🙀 I’m interested in every exciting thing, from Science & Technology to Graphic Designing!
+<br><br>👨‍🎓 I’m currently learning everything I can and I'm interested in!
+</kbd>
 
-<kbd>🤙 Talk to me on [Telegram ➜](https://t.me/VedxP)</kbd>
+<br><kbd>&emsp;🤙 Talk to me on [Telegram ➜](https://t.me/VedxP)&emsp;</kbd>
+
+<p align="center"><kbd></kbd></p>
 
 <kbd><picture>
   <source media="(prefers-color-scheme: dark)" srcset="http://github-readme-streak-stats.herokuapp.com?user=VedxP&theme=blueberry_duo&hide_border=true">">

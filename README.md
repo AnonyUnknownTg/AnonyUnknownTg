@@ -1,18 +1,19 @@
 ### 👋 Hey there!
 
-<picture>
+<kbd><picture>
   <source media="(prefers-color-scheme: dark)" srcset="/vpbanner.png">">
   <source media="(prefers-color-scheme: light)" srcset="/vpbanner.png">">
   <img alt="Banner Saying; It's me, Ved!" src="/vpbanner.png">
-</picture>
+</picture></kbd>
 
 <p align="center"><kbd></kbd></p>
 
 <kbd>
 🙀 I’m interested in every exciting thing, from Science & Technology to Graphic Designing!
 <br><br>👨‍🎓 I’m currently learning everything I can and I'm interested in!
-<br><br><br><br>🤙 Talk to me on [Telegram ➜](https://t.me/VedxP)
 </kbd>
+
+<br><kbd>&emsp;🤙 Talk to me on [Telegram ➜](https://t.me/VedxP)&emsp;</kbd>
 
 <p align="center"><kbd></kbd></p>
 

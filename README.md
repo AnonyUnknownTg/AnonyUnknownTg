@@ -1,10 +1,10 @@
 ### 👋 Hey there!
 
-<kbd><picture>
+<table><td><picture>
   <source media="(prefers-color-scheme: dark)" srcset="/vpbanner.png">">
   <source media="(prefers-color-scheme: light)" srcset="/vpbanner.png">">
   <img alt="Banner Saying; It's me, Ved!" src="/vpbanner.png">
-</picture></kbd>
+</picture></td></table>
 
 <p align="center"><kbd></kbd></p>
 
@@ -17,7 +17,7 @@
 
 <p align="center"><kbd></kbd></p>
 
-<kbd><picture>
+<pre><kbd><picture>
   <source media="(prefers-color-scheme: dark)" srcset="http://github-readme-streak-stats.herokuapp.com?user=VedxP&theme=blueberry_duo&hide_border=true">">
   <source media="(prefers-color-scheme: light)" srcset="http://github-readme-streak-stats.herokuapp.com?user=VedxP&theme=blueberry_duo&hide_border=true">">
   <img alt="Banner Displaying VedxP's GitHub Streak Stats" src="http://github-readme-streak-stats.herokuapp.com?user=VedxP&theme=blueberry_duo&hide_border=true">
@@ -25,4 +25,10 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://xp-stats.vercel.app/api?username=VedxP&count_private=true&show_icons=true&theme=github_dark&bg_color=00000000&border_radius=10&hide_title=true&hide_border=true">">
   <source media="(prefers-color-scheme: light)" srcset="https://xp-stats.vercel.app/api?username=VedxP&count_private=true&show_icons=true&theme=github_dark&bg_color=00000000&border_radius=10&hide_title=true&hide_border=true">">
   <img alt="Banner Displaying VedxP's GitHub Stats" src="https://xp-stats.vercel.app/api?username=VedxP&count_private=true&show_icons=true&theme=github_dark&bg_color=00000000&border_radius=10&hide_title=true&hide_border=true">
-</picture></kbd>
+</picture></kbd></pre>
+
+<pre><kbd align="center">
+<p align="center">
+  <sub>Copyright 2021-present <a href="https://github.com/VedxP">VedxP</a></sub>
+</p>
+</kbd></pre>

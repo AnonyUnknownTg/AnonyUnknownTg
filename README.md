@@ -6,14 +6,22 @@
   <img alt="Banner Saying; It's me, Ved!" src="/vpbanner.png">
 </picture></kbd>
 
-<p align="center"><kbd></kbd></p>
+<br>
 
-<kbd>
+<pre align="center">
 🙀 I’m interested in every exciting thing, from Science & Technology to Graphic Designing!
-<br><br>👨‍🎓 I’m currently learning everything I can and I'm interested in!
-</kbd>
+</pre>
 
-<br><kbd>&emsp;🤙 Talk to me on [Telegram ➜](https://t.me/VedxP)&emsp;</kbd>
+<pre align="center">
+👨‍🎓 I’m currently learning everything I can and I'm interested in!
+</pre>
+
+<pre align="center">
+🤙 Talk to me on Telegram
+</pre>
+
+<kbd>&emsp;[Telegram ➜](https://t.me/VedxP)&emsp;</kbd>
+
 <br>
 
 #### 📊 Stats

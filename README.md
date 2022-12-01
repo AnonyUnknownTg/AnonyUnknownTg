@@ -8,13 +8,9 @@
 
 <br>
 
-<pre align="center">
 🙀 I’m interested in every exciting thing, from Science & Technology to Graphic Designing!
-</pre>
 
-<pre align="center">
 👨‍🎓 I’m currently learning everything I can and I'm interested in!
-</pre>
 
 <pre align="center">
 🤙 Talk to me on Telegram

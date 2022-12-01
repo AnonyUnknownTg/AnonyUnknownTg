@@ -26,3 +26,18 @@
   <source media="(prefers-color-scheme: light)" srcset="https://xp-stats.vercel.app/api?username=VedxP&count_private=true&show_icons=true&theme=github_dark&bg_color=00000000&border_radius=10&hide_title=true&hide_border=true">">
   <img alt="Banner Displaying VedxP's GitHub Stats" src="https://xp-stats.vercel.app/api?username=VedxP&count_private=true&show_icons=true&theme=github_dark&bg_color=00000000&border_radius=10&hide_title=true&hide_border=true">
 </picture></kbd>
+
+---
+
+#### 🪦 Graveyard
+
+<kbd><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://xp-stats.vercel.app/api/pin/?username=VedxP&repo=reesors-v1">">
+  <source media="(prefers-color-scheme: light)" srcset="https://xp-stats.vercel.app/api/pin/?username=VedxP&repo=reesors-v1">">
+  <img alt="Deprecated version of Reesors" src="https://xp-stats.vercel.app/api/pin/?username=VedxP&repo=reesors-v1">
+</picture></kbd>
+<kbd><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://xp-stats.vercel.app/api/pin/?username=VedxP&repo=enspire">">
+  <source media="(prefers-color-scheme: light)" srcset="https://xp-stats.vercel.app/api/pin/?username=VedxP&repo=enspire">">
+  <img alt="Deprecated version of Battry" src="https://xp-stats.vercel.app/api/pin/?username=VedxP&repo=enspire">
+</picture></kbd>

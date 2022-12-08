@@ -16,25 +16,25 @@
 🤙 Talk to me on Telegram
 </pre>
 
-<kbd>&emsp;[Telegram ➜](https://t.me/VedxP)&emsp;</kbd>
+<kbd>&emsp;[Telegram ➜](https://t.me/vedxp)&emsp;</kbd>
 
 <br>
 
 #### 📊 Stats
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="http://github-readme-streak-stats.herokuapp.com?user=VedxP&theme=blueberry_duo">">
-  <source media="(prefers-color-scheme: light)" srcset="http://github-readme-streak-stats.herokuapp.com?user=VedxP&theme=blueberry_duo">">
-  <img alt="Banner Displaying VedxP's GitHub Streak Stats" src="http://github-readme-streak-stats.herokuapp.com?user=VedxP&theme=blueberry_duo">
+  <source media="(prefers-color-scheme: dark)" srcset="http://github-readme-streak-stats.herokuapp.com?user=vedxp&theme=blueberry_duo">">
+  <source media="(prefers-color-scheme: light)" srcset="http://github-readme-streak-stats.herokuapp.com?user=vedxp&theme=blueberry_duo">">
+  <img alt="Banner Displaying VedxP's GitHub Streak Stats" src="http://github-readme-streak-stats.herokuapp.com?user=vedxp&theme=blueberry_duo">
 </picture><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://xp-stats.vercel.app/api?username=VedxP&count_private=true&show_icons=true&theme=github_dark&bg_color=00000000&border_radius=10&hide_title=true">">
-  <source media="(prefers-color-scheme: light)" srcset="https://xp-stats.vercel.app/api?username=VedxP&count_private=true&show_icons=true&theme=github_dark&bg_color=00000000&border_radius=10&hide_title=true">">
-  <img alt="Banner Displaying VedxP's GitHub Stats" src="https://xp-stats.vercel.app/api?username=VedxP&count_private=true&show_icons=true&theme=github_dark&bg_color=00000000&border_radius=10&hide_title=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://xp-stats.vercel.app/api?username=vedxp&count_private=true&show_icons=true&theme=github_dark&bg_color=00000000&border_radius=10&hide_title=true">">
+  <source media="(prefers-color-scheme: light)" srcset="https://xp-stats.vercel.app/api?username=vedxp&count_private=true&show_icons=true&theme=github_dark&bg_color=00000000&border_radius=10&hide_title=true">">
+  <img alt="Banner Displaying VedxP's GitHub Stats" src="https://xp-stats.vercel.app/api?username=vedxp&count_private=true&show_icons=true&theme=github_dark&bg_color=00000000&border_radius=10&hide_title=true">
 </picture>
 
 <br>
 
 #### 🪦 Graveyard
 
-[![Deprecated version of Reesors](https://xp-stats.vercel.app/api/pin/?username=VedxP&repo=reesors-v1&theme=github_dark&bg_color=00000000&border_radius=10)](https://github.com/VedxP/reesors-v1)
-[![Deprecated version of Battry](https://xp-stats.vercel.app/api/pin/?username=VedxP&repo=enspire&theme=github_dark&bg_color=00000000&border_radius=10)](https://github.com/VedxP/enspire)
+[![Deprecated version of Reesors](https://xp-stats.vercel.app/api/pin/?username=vedxp&repo=reesors-v1&theme=github_dark&bg_color=00000000&border_radius=10)](https://github.com/vedxp/reesors-v1)
+[![Deprecated version of Battry](https://xp-stats.vercel.app/api/pin/?username=vedxp&repo=enspire&theme=github_dark&bg_color=00000000&border_radius=10)](https://github.com/vedxp/enspire)

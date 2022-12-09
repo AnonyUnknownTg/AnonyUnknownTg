@@ -1,4 +1,4 @@
-<pre align="center">👋 Hey there!</pre>
+<pre align="center">♓🎗🍸  🌴♓🎗🌱🎗</pre>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/vpbanner.png">">

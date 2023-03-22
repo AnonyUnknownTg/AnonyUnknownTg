@@ -24,8 +24,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://xp-stats.vercel.app/api?username=vedxp&count_private=true&show_icons=true&theme=github_dark&bg_color=00000000&border_radius=10&hide_title=true">">
   <img alt="Banner Displaying Vedxp's GitHub Stats" src="https://xp-stats.vercel.app/api?username=vedxp&count_private=true&show_icons=true&theme=github_dark&bg_color=00000000&border_radius=10&hide_title=true">
 </picture>
-
-<br><pre align="center">🪦 Project Graveyard</pre>
-
-[![Depreciated version of Reesors](https://xp-stats.vercel.app/api/pin/?username=vedxp&repo=reesors-v1&theme=github_dark&bg_color=00000000&border_radius=10)](https://github.com/vedxp/reesors-v1)
-[![Depreciated version of Battry](https://xp-stats.vercel.app/api/pin/?username=vedxp&repo=enspire&theme=github_dark&bg_color=00000000&border_radius=10)](https://github.com/vedxp/enspire)
